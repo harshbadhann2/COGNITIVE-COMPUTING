@@ -10,4 +10,6 @@ This repository contains assignments for the **Cognitive Computing** course. Eac
 ## Repository Structure
 - **Assignment 1:**
 - **Assignment 2:**
+- **Assignment 3:**
+  Includes questions realted to pandas in python
 
