@@ -14,5 +14,7 @@ This repository contains assignments for the **Cognitive Computing** course. Eac
   Includes questions realted to Pandas Library in Python
 - **Assignment 4:**
      Includes questions related to NumPy Library in Python
+- **Assignment 5:**
+     Includes questions related to NumPy Library in Python (Part 2)
   
 
